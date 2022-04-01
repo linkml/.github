@@ -8,3 +8,4 @@ LinkML is a flexible modeling language that allows you to author schemas in YAML
 ## Quick Links
 - :computer: [linkml.io](https://linkml.io/)
 - :book: [LinkML Guide](https://linkml.io/linkml/)
+- [project template](https://github.com/linkml/linkml-project-template)
