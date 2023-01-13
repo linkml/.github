@@ -4,6 +4,8 @@ LinkML is a flexible modeling language that allows you to author schemas in YAML
 
 **Please submit all issues to the [linkml/linkml repo](https://github.com/linkml/linkml/issues).** You can also vote for your favorite issue there.
 
+You can [ask to join the linkml-community](https://accounts.google.com/AccountChooser?continue=https://groups.google.com/g/linkml-community&hl=en) Google group.
+
 *See our pinned repositories below for quick access to our main code bases, or use the search bar to find a specific code repository.*
 
 ## Quick Links
