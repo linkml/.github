@@ -2,9 +2,9 @@
 
 LinkML is a flexible modeling language that allows you to author schemas in YAML that describe the structure of your data. Additionally, it is a framework for working with and validating data in a variety of formats (JSON, RDF, TSV), with generators for compiling LinkML schemas to other frameworks.
 
-**Please submit all issues to the [linkml/linkml repo](https://github.com/linkml/linkml/issues).** You can also vote for your favorite issue there.
+**Please submit all issues to the [linkml/linkml repo](https://github.com/linkml/linkml/issues).** You can also [vote for your favorite issue](https://github.com/linkml/linkml/issues/974).
 
-You can [ask to join the linkml-community](https://accounts.google.com/AccountChooser?continue=https://groups.google.com/g/linkml-community&hl=en) Google group.
+You can [ask to join the linkml-community Google group](https://groups.google.com/g/linkml-community) (you need to have a Google account to join).
 
 *See our pinned repositories below for quick access to our main code bases, or use the search bar to find a specific code repository.*
 
