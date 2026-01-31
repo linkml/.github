@@ -12,4 +12,4 @@ You can [ask to join the linkml-community Google group](https://groups.google.co
 - :computer: [linkml.io](https://linkml.io/)
 - :book: [LinkML Guide](https://linkml.io/linkml/)
 - :book: [LinkML Metamodel](https://w3id.org/linkml)
-- [project cookiecutter template](https://github.com/linkml/linkml-project-cookiecutter)
+- [project copier template](https://github.com/linkml/linkml-project-copier)
